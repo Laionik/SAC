@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace SAC
 {
-    class Program
+    class SACCalculation
     {
         /// <summary>
         /// Get sboxFunctions
